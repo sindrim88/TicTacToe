@@ -1,0 +1,18 @@
+.grid-container{
+	width: 308px;
+	height: 300px;
+    background: gray;
+    display: block;
+}
+
+.item{
+	background-color: rgba(255, 255, 255, 0.8);
+	border: 1px solid rgba(0, 0, 0, 0.8);
+	padding: 10px;
+	font-size: 30px;
+	justify-content: space-between;
+	height: 100px;
+	width: 100px;
+	vertical-align: middle;
+
+} 
